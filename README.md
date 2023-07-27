@@ -1,1 +1,1 @@
-Click to visit websitr:http://nader-barahma.qr/
+Click to visit websitr:https://nader-barahma.github.io/QR/
